@@ -7,7 +7,7 @@ Welcome to my Flutter journey repository! Here, I document my learning and progr
 
 # Dart Basics
 
-In this section, I've covered the basics of Dart programming language. Below are the topics I've covered so far:
+In this section, I've covered the basics of Dart programming language. Below are the topics I've covered:
 
 * Getting Started with Hello World
 * Commenting in Dart
@@ -25,6 +25,17 @@ In this section, I've covered the basics of Dart programming language. Below are
 * Abstract Classes in Dart
 * Getter and Setter Methods in Dart
 * Maps and list in Dart
+
+# Flutter Widgets
+
+In this section, I've covered the basics of Widgets. Below are the topics I've covered:
+
+* Basics of Widgets
+* Container Class in Flutter
+* MaterialApp Class in Flutter
+* Scaffold Class in Flutter
+* Types of Widgets
+
 
 
 Feel free to explore these topics to get a solid understanding of Dart before diving deeper into Flutter.
