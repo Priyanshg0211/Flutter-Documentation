@@ -36,6 +36,14 @@ In this section, I've covered the basics of Widgets. Below are the topics I've c
 * Scaffold Class in Flutter
 * Types of Widgets
 
+# Bonus 
+
+In this section, I've covered the important widget. Below are the topics I've covered:
+
+* BottomNavigationBar Widget in Flutter
+* ClipRRect Widget in Flutter
+* Drawer Widget in Flutter
+* Flutter – RichText Widget
 
 
 Feel free to explore these topics to get a solid understanding of Dart before diving deeper into Flutter.
