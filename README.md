@@ -26,6 +26,10 @@ In this section, I've covered the basics of Dart programming language. Below are
 * Getter and Setter Methods in Dart
 * Maps and list in Dart
 
+# Installation Guide 
+
+ Check out the installation guide for Flutter here
+
 # Flutter Widgets
 
 In this section, I've covered the basics of Widgets. Below are the topics I've covered:
