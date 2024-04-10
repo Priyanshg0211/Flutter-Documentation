@@ -26,6 +26,8 @@ In this section, I've covered the basics of Dart programming language. Below are
 * Getter and Setter Methods in Dart
 * Maps and list in Dart
 
+Note - Added the code file also for dart programming "Code".
+
 # Installation Guide 
 
  Check out the installation guide for Flutter here
