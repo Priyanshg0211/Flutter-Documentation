@@ -51,6 +51,13 @@ In this section, I've covered the important widget. Below are the topics I've co
 * Drawer Widget in Flutter
 * Flutter – RichText Widget
 
+# Basic Projects 
+
+In this Section, I've created a two basic project using the basic flutter widget
+
+* Project 1 - Coursely (Link - https://github.com/Priyanshg0211/Coursely.git)
+* Project 2 - FoodZing (Link - https://github.com/Priyanshg0211/FoodZing-.git)
+
 
 Feel free to explore these topics to get a solid understanding of Dart before diving deeper into Flutter.
 
