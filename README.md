@@ -58,6 +58,8 @@ In this Section, I've created a two basic project using the basic flutter widget
 * Project 1 - Coursely (Link - https://github.com/Priyanshg0211/Coursely.git)
 * Project 2 - FoodZing (Link - https://github.com/Priyanshg0211/FoodZing-.git)
 
+# Firebase Setup with Flutter
+Adding the Notes soon
 
 Feel free to explore these topics to get a solid understanding of Dart before diving deeper into Flutter.
 
